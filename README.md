@@ -1,26 +1,27 @@
-Maplecoin integration/staging tree
+EarthDollar integration/staging tree
 ================================
 
 http://www.MapleCoin.info
-
-Copyright (c) 2009-2013 Bitcoin Developers
 
 Copyright (c) 2011 Litecoin Developers
 
 Copyright (c) 2014 Maplecoin Developers
 
-What is Maplecoin?
+Copyright (c) 2014 EarthDollar Developers
+
+What is EarthDollar?
 ----------------
 
-Maplecoin is a fork of Litecoin using scrypt as a proof-of-work algorithm.
+EarthDollar is a fork of MapleCoin using scrypt as a proof-of-work algorithm.
+
  - 2 minute block targets
  - subsidy halves in 241k blocks (~1 year)
- - ~2.4 billion total coins
+ - ~1.2 billion total coins
  - 5000 coins per block
- - 2016 blocks to retarget difficulty
+ - 4 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Maplecoin client sofware, see http://www.MapleCoin.info
+the Maplecoin client sofware, see http://www.EarthDollar.com
 
 License
 -------
