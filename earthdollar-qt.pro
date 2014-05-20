@@ -1,6 +1,6 @@
 TEMPLATE = app
-TARGET = maplecoin-qt
-macx:TARGET = "maplecoin-Qt"
+TARGET = earthdollar-qt
+macx:TARGET = "earthdollar-Qt"
 VERSION = 0.8.3
 INCLUDEPATH += src src/json src/qt
 QT += network
