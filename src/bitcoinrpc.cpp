@@ -43,7 +43,7 @@ static boost::thread_group* rpc_worker_group = NULL;
 
 static inline unsigned short GetDefaultRPCPort()
 {
-    return GetBoolArg("-testnet", false) ? 10425 : 10423;
+    return GetBoolArg("-testnet", false) ? 9375 : 9372;
 }
 
 Object JSONRPCError(int code, const string& message)
@@ -183,10 +183,10 @@ Value stop(const Array& params, bool fHelp)
     if (fHelp || params.size() > 1)
         throw runtime_error(
             "stop\n"
-            "Stop Maplecoin server.");
+            "Stop Earthdollar server.");
     // Shutdown will take long enough that the response should get back
     StartShutdown();
-    return "Maplecoin server stopping";
+    return "Earthdollar server stopping";
 }
 
 
@@ -735,7 +735,7 @@ void StartRPCThreads()
     {
         unsigned char rand_pwd[32];
         RAND_bytes(rand_pwd, 32);
-        string strWhatAmI = "To use maplecoind";
+        string strWhatAmI = "To use earthdollard";
         if (mapArgs.count("-server"))
             strWhatAmI = strprintf(_("To use the %s option"), "\"-server\"");
         else if (mapArgs.count("-daemon"))
@@ -750,7 +750,7 @@ void StartRPCThreads()
               "The username and password MUST NOT be the same.\n"
               "If the file does not exist, create it with owner-readable-only file permissions.\n"
               "It is also recommended to set alertnotify so you are notified of problems;\n"
-              "for example: alertnotify=echo %%s | mail -s \"Maplecoin Alert\" Contact@maplecoin.info\n"),
+              "for example: alertnotify=echo %%s | mail -s \"Earthdollar Alert\" Contact@cryptodirect.info\n"),
                 strWhatAmI.c_str(),
                 GetConfigFile().string().c_str(),
                 EncodeBase58(&rand_pwd[0],&rand_pwd[0]+32).c_str()),
