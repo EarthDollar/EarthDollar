@@ -1,8 +1,7 @@
 EarthDollar integration/staging tree
 ================================
 
-http://www.EarthDollar.com
-
+http://www.EarthDollar.org
 Copyright (c) 2011 Litecoin Developers
 
 Copyright (c) 2014 Maplecoin Developers
@@ -21,7 +20,7 @@ EarthDollar is a fork of MapleCoin using scrypt as a proof-of-work algorithm.
  - 4 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the EarthDollar client sofware, see http://www.EarthDollar.com
+the EarthDollar client sofware, see http://www.EarthDollar.org
 
 License
 -------
