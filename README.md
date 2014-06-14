@@ -11,13 +11,22 @@ Copyright (c) 2014 EarthDollar Developers
 What is EarthDollar?
 ----------------
 
-EarthDollar is a fork of MapleCoin using scrypt as a proof-of-work algorithm.
+EarthDollar is a fork of MapleCoin using scrypt as a new proof-of-sustainability algorithm.
 
- - 2 minute block targets
- - subsidy halves in 241k blocks (~1 year)
- - ~1.2 billion total coins
- - 5000 coins per block
- - 4 blocks to retarget difficulty
+
+ - Name: EarthDollar - Version 0.8.1 BETA
+ - Symbol: ED
+ - Based on latest Litecoin/Maplecoin 0.8.1 source
+ - Using Scrypt Mining
+ - Block Target: 120 seconds
+ - Difficulty Re-Targets every 4 blocks based on last 90 blocks (Quick
+ - Difficulty Readjustment)
+ - Block reward: 305 ED halving every 10000000 blocks (approx. 38 years)
+ - Total coin mined: 6.1 Billion ED
+ - 6.1 billion coins will be mined in approx. first 150 years
+ - Transaction Confirmations Needed: 6
+ - Genesis Block Motto - "June 10, 2014: Love your neighbour as you love yourself. We are all one.!"
+ 
 
 For more information, as well as an immediately useable, binary version of
 the EarthDollar client sofware, see http://www.EarthDollar.org
