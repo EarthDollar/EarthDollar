@@ -11,7 +11,7 @@ Copyright (c) 2014 EarthDollar Developers
 What is EarthDollar?
 ----------------
 
-EarthDollar is a fork of MapleCoin using scrypt as a new proof-of-sustainability algorithm.
+EarthDollar is a fork of MapleCoin.
 
 
  - Name: EarthDollar - Version 0.8.1 BETA
