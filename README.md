@@ -11,19 +11,20 @@ Copyright (c) 2014 EarthDollar Developers
 What is EarthDollar?
 ----------------
 
-EarthDollar is a fork of MapleCoin.
+EarthDollar is an asset backed currency designed to fight climate change, using a highly enhanced fork of LiteCoin.
 
 
  - Name: EarthDollar - Version 0.8.1 BETA
  - Symbol: ED
- - Based on latest Litecoin/Maplecoin 0.8.1 source
+ - Based on latest Litecoin source
  - Using Scrypt Mining
+ - Proof-of-Sustainability (New Algorithm allowing for real-time transactions and lower energy consumption)
  - Block Target: 120 seconds
  - Difficulty Re-Targets every 4 blocks based on last 90 blocks (Quick Difficulty Readjustment)
- - Block reward: 305 ED halving every 10000000 blocks (approx. 38 years)
- - Total coin mined: 6.1 Billion ED
- - 6.1 billion coins will be mined in approx. first 150 years
+ - Block reward: 200 ED
+ - Total coin mined: 60 Billion ED
  - Transaction Confirmations Needed: 6
+ - Dark Wave 3 Multipool Protection
  - Genesis Block Motto - "TBA"
  
 
