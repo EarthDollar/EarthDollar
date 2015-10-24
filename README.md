@@ -1,31 +1,29 @@
 EarthDollar integration/staging tree
-================================
+=======================================
+
+THE NEW CODES FOR THE EARTH DOLLAR HAS NOT BEEN RELEASED. IT IS STILL UNDER HEAVU DEVELOPMENT.
 
 http://www.EarthDollar.org
-Copyright (c) 2011 Litecoin Developers
-
-Copyright (c) 2014 Maplecoin Developers
 
 Copyright (c) 2014 EarthDollar Developers
 
 What is EarthDollar?
 ----------------
 
-EarthDollar is an asset backed currency designed to fight climate change, using a highly enhanced fork of LiteCoin.
+EarthDollar is an asset backed currency designed to fight climate change, using Ethereum
 
 
  - Name: EarthDollar - Version 0.8.1 BETA
  - Symbol: ED
- - Based on latest Litecoin source
- - Using Scrypt Mining
+ - Based on Ethereum
+ - Using Smart Contracts
  - Proof-of-Sustainability (New Algorithm allowing for real-time transactions and lower energy consumption)
  - Block Target: 120 seconds
  - Difficulty Re-Targets every 4 blocks based on last 90 blocks (Quick Difficulty Readjustment)
  - Block reward: 200 ED
- - Total coin mined: 60 Billion ED
+ - Total coin mined: As new physical assets of intrinsic values are added to back the Earth Dollar, new coins are generated to pay the owners pledging the assets.
  - Transaction Confirmations Needed: 6
- - Dark Wave 3 Multipool Protection
- - Genesis Block Motto - "TBA"
+ - Genesis Block Motto - "The Living Currency"
  
 
 For more information, as well as an immediately useable, binary version of
@@ -43,7 +41,7 @@ Development process
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
-If it is a simple/trivial/non-controversial change, then one of the Litecoin
+If it is a simple/trivial/non-controversial change, then one of the Earth Dollar
 development team members simply pulls it.
 
 If it is a *more complicated or potentially controversial* change, then the patch
@@ -67,18 +65,5 @@ requests than we can review and test. Please be patient and help out, and
 remember this is a security-critical project where any mistake might cost people
 lots of money.
 
-### Automated Testing
 
-Developers are strongly encouraged to write unit tests for new code, and to
-submit new unit tests for old code.
-
-Unit tests for the core code are in `src/test/`. To compile and run them:
-
-    cd src; make -f makefile.unix test
-
-Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
-
-    qmake BITCOIN_QT_TEST=1 -o Makefile.test bitcoin-qt.pro
-    make -f Makefile.test
-    ./litecoin-qt_test
 
