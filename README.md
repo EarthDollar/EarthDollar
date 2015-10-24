@@ -1,7 +1,7 @@
 EarthDollar integration/staging tree
 =======================================
 
-THE NEW CODES FOR THE EARTH DOLLAR HAS NOT BEEN RELEASED. IT IS STILL UNDER HEAVU DEVELOPMENT.
+THE NEW CODES FOR THE EARTH DOLLAR HAS NOT BEEN RELEASED. IT IS STILL UNDER HEAVY DEVELOPMENT.
 
 http://www.EarthDollar.org
 
