@@ -33,7 +33,6 @@ Units of the Earth Dollar
  - 1 ED = 10 Dimes
  - 1 ED = 20 Nickles
  - 1 ED = 100 Pennies
-
  - 1 ED = 1000 Kam 
  - 1 ED = 10 000 Tilly
  - 1 ED = 100 000 Fish
