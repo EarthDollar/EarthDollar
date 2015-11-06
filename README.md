@@ -29,19 +29,19 @@ Units of the Earth Dollar
 ---------------------------
 1 earth dollar
 
-1 ED = 4 Quarters
-1 ED = 10 Dimes
-1 ED = 20 Nickles
-1 ED = 100 Pennies
+ - 1 ED = 4 Quarters
+ - 1 ED = 10 Dimes
+ - 1 ED = 20 Nickles
+ - 1 ED = 100 Pennies
 
-1 ED = 1000 Kam 
-1 ED = 10 000 Tilly
-1 ED = 100 000 Fish
-1 ED = 100 000 Rajpal
-1 ED = 1 000 000 Ratt
-1 ED = 10 000 000 Wawatie
-1 ED = 100 000 000 Chief
-1 ED = 1000 000 000 Luck 
+ - 1 ED = 1000 Kam 
+ - 1 ED = 10 000 Tilly
+ - 1 ED = 100 000 Fish
+ - 1 ED = 100 000 Rajpal
+ - 1 ED = 1 000 000 Ratt
+ - 1 ED = 10 000 000 Wawatie
+ - 1 ED = 100 000 000 Chief
+ - 1 ED = 1000 000 000 Luck 
 
 
 
