@@ -26,7 +26,7 @@ EarthDollar is an asset backed currency designed to fight climate change, using 
  - Genesis Block Motto - "The Living Currency"
  
 Units of the Earth Dollar
---------------------------
+---------------------------
 1 earth dollar
 
 1 ED = 4 Quarters
