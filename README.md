@@ -25,6 +25,25 @@ EarthDollar is an asset backed currency designed to fight climate change, using 
  - Transaction Confirmations Needed: 6
  - Genesis Block Motto - "The Living Currency"
  
+Units of the Earth Dollar
+--------------------------
+1 earth dollar
+
+1 ED = 4 Quarters
+1 ED = 10 Dimes
+1 ED = 20 Nickles
+1 ED = 100 Pennies
+
+1 ED = 1000 Kam 
+1 ED = 10 000 Tilly
+1 ED = 100 000 Fish
+1 ED = 100 000 Rajpal
+1 ED = 1 000 000 Ratt
+1 ED = 10 000 000 Wawatie
+1 ED = 100 000 000 Chief
+1 ED = 1000 000 000 Luck 
+
+
 
 For more information, as well as an immediately useable, binary version of
 the EarthDollar client sofware, see http://www.EarthDollar.org
